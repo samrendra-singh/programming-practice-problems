@@ -1,8 +1,8 @@
 /**
  * @file C_Simple_Calculator.cpp
  * @brief A simple C++ program that demonstrates basic data types, opertaors and their usage.
- * @author failssafe
- * @date 2023-10-01
+ * @author failsafe
+ * @date 2025-05-01
  * @version 1.0
  */
 

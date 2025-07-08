@@ -1,8 +1,8 @@
 /**
  * @file A_Say_Hello_With_C.cpp
  * @brief A simple C++ program that prints "Hello, World!" to the console.
- * @author failssafe
- * @date 2023-10-01
+ * @author failsafe
+ * @date 2025-05-01
  * @version 1.0
  */
 
